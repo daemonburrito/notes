@@ -2,11 +2,14 @@ Scott M Drake<br>
 2515 Allred Dr<br>
 Austin Texas 78748 USA
 
+Github: daemonburrito
+Email: demonburrito@gmail.com
+
 Applicable Skills
 ====
 Application
 -----
-* Javascript (in its latest "stage 0" specifications for transpilation)
+* Javascript (in its latest forms)
 * Node.js (goes without saying)
 * Comfortable with targeting JS for multiple environments; using tools like RollUp and WebPack
 * Python (in its most recent CPython versions)
@@ -23,7 +26,7 @@ Systems
 * Good enough skills in bash, legacy init systems, Systemd.
 * More than passing familiarity with languages like awk.
 * Containerization: Docker and Vagrant
-* Strongest skills in Linuxes, but can thrive in an Apple environment.
+* Strongest skills in Linuxes, but can live in an Apple environment.
 
 Networking
 ----
@@ -81,3 +84,20 @@ Philosophy and Advocacy
 ====
 * Open source (especially but not exclusively libre software, FLOSS).
 * Human rights, spreading the means of production as widely as possible; including programming literacy and hardware fabrication skill.
+
+Work history
+====
+* Senior Software Developer
+Ihiji (now Control4)
+July 2015 - Present
+
+* Software Engineer
+Cratejoy
+2014
+
+* Senior Software Engineer
+Famigo, Inc.
+2012-2014
+
+* Various
+Consulting, 2008 onward
