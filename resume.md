@@ -2,8 +2,9 @@ Scott M Drake<br>
 2515 Allred Dr<br>
 Austin Texas 78748 USA
 
+Phone: 830 388 0065<br>
+General Email: demonburrito@gmail.com<br>
 Github: daemonburrito
-Email: demonburrito@gmail.com
 
 Applicable Skills
 ====
@@ -12,7 +13,7 @@ Application
 * Javascript (ES2015, ES7, experimental)
 * Node.js
 * Comfortable with targeting JS for multiple environments, using tools like RollUp and WebPack
-* Python (in its most recent CPython versions)
+* Python (CPython 2 and 3)
   * Intimate knowledge of WSGI, and applications and frameworks like Flask
 * API Design (as in programming interfaces; architecture)
 * Client-side application design, Elm descendents like React+Redux, as well as ML descendents like Purescript.
@@ -66,7 +67,7 @@ Work history
 * Various consulting, 2008 onward
 
 Esoteric But Current Applicable Skills
-====
+----
 * Advanced Javascript and related DOM technologies: WebGL, SVG, etc.
 * Functional Programming in Javascript and Javascript transpilation targets
   * React/Redux
@@ -76,6 +77,48 @@ Esoteric But Current Applicable Skills
   * Haskell (ML Family in general)
   * Schemes (Racket in particular)
 * Curiosity about and skills in esoteric architecture patterns like Entity Component System.
+
+Recent Career History
+====
+* Senior Software Developer<br>
+Ihiji
+July 2015-June 2018
+
+* Software Engineer<br>
+Cratejoy
+2014-2014
+
+* Senior Software Engineer<br>
+Famigo, Inc.
+2012-2014
+
+Additional Experience and History
+----
+Same story as most in our field: Computing as a very young child (starting with a TRS-80 which required some basic knowledge with Basic to get started), PC clones and DOS/Windows during the 80s and picking up C. Music and art with Commodore machines like the Amiga 500. Hardhacks to make music with PCs in the early 90s, writing simple games.
+
+Education
+====
+Besides work and personal experience, I dropped out of a community college while in a CS/Math program. I was a member of the last class to use C as a teaching language, as opposed to Java (for which I am eternally grateful). I was very fortunate to have a CS instructor from Bell Labs, from whom I learned a great deal informally during off-hours.
+
+Total Work Experience
+====
+Considering consulting/contracting, personal work, and salaried FT employment, 15 years.
+* Javascript and all other DOM technologies since the beginning (~1994)
+* C, with enough competence and CS theory to justify my confidence, since ~1996
+* Python since 2007
+* PLT since ~2005
+* Unix tools and similar (awk, perl, bash, etc.) since ~2001 (close to my first use of Linux)
+
+Background
+====
+
+Open Source Projects
+====
+Too many projects to list, but as a sample:
+* A Python port of a Nexrad (Weather Radar) decoder
+* A Javascript Entity-Component-System Game Engine (minimal, but working)
+* OpenSCAD-built models for printing (turns out that Github can render STL files, making Thingiverse unnecessary).
+* Various documentation contributions; mostly just grammar, linking, etc.
 
 Current Languages of Interest
 ====
