@@ -4,7 +4,8 @@ Austin Texas 78748 USA
 
 Phone: 830 388 0065<br>
 General Email: demonburrito@gmail.com<br>
-Github: daemonburrito
+Github: daemonburrito<br>
+Gitlab: daemonburrito
 
 Applicable Skills
 ====
@@ -23,7 +24,7 @@ Application
 
 Systems
 ----
-* Intimate familiarity with modern Linux. Everyday OS: Ubuntu or Debian.
+* Intimate familiarity with modern Linux. Everyday OS: Arch, Ubuntu or Debian.
 * Bash, legacy init systems, Systemd.
 * Miscellaneous scripting languages such as awk.
 * Containerization: Docker and Vagrant
