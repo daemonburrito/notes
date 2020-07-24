@@ -1,5 +1,5 @@
 Scott M Drake<br>
-2515 Allred Dr<br>
+2515 Allred Dr Apt A<br>
 Austin Texas 78748 USA
 
 Phone: 830 388 0065<br>
@@ -17,9 +17,9 @@ Application
 * Python (CPython 2 and 3)
   * Intimate knowledge of WSGI, and applications and frameworks like Flask
 * API Design (as in programming interfaces; architecture)
-* Client-side application design, Elm descendents like React+Redux, as well as ML descendents like Purescript.
+* Client-side application design, Elm descendents like React+Redux, as well as FP/Type-algebraic languages such as Purescript.
 * SQL Design
-* Intimate knowledge of latest browser builds and Web Extenstion API.
+* Intimate knowledge of latest browsers and Web Extenstion API.
 * Electron and React Native
 
 Systems
@@ -27,14 +27,15 @@ Systems
 * Intimate familiarity with modern Linux. Everyday OS: Arch, Ubuntu or Debian.
 * Bash, legacy init systems, Systemd.
 * Miscellaneous scripting languages such as awk.
-* Containerization: Docker and Vagrant
+* Containers/Virtualization: Kubernetes, Docker and Vagrant
 * Strongest skills in Linuxes, but can live in an Apple environment.
 
 Networking
 ----
 * HTTP and HTTP (ReST) Interface Design
 * Understanding of OSI Model and ability to diagnose and solve most layer 3 and above problems.
-* Cloud providers: AWS and Rackspace, as well as VPS's; Linode, etc.
+* Cloud providers: AWS, Google Cloud, and Rackspace, as well as VPS's; Linode,
+  etc.
 
 Development Environment
 ----
@@ -51,7 +52,14 @@ Too many projects to list, but as a sample:
 
 Work history
 ====
-* Senior Software Developer, Ihiji (now Control4) July 2015 - Present
+* Senior Software Engineer, Bestow, Inc. May 2019 - May 2020
+  * React/Redux mentoring, including solutions for race conditions
+    asynchronous systems; I chose Redux-Saga and Sanctuary for this implementation.
+  * Design for long-term storage of documents with logic in an AST inspired by LISP (parts of existing implementation were in Python).
+* Senior Software Engineer, uStudio October 2018 - March 2019
+  * React/Redux Programming, in the context of a React Native mobile application, responsible for deployment of both iOs and Android versions.
+  * Knowledge transfer of a safe asynchronous, declarative, and functional programming style for Javascript.
+* Senior Software Developer, Ihiji (now Control4) July 2015 - June 2018
   * Mentored team and moved company to a ReSTful architecture with a standard, horizontally-scalable stateless web server.
   * Wrote initial version of WSGI-based application server (Flask).
   * Built a native mobile application (iOS, Android) with React Native.
@@ -81,6 +89,14 @@ Esoteric But Current Applicable Skills
 
 Recent Career History
 ====
+* Senior Software Developer<br>
+Bestow, Inc.
+May 2019-May 2020
+
+* Senior Software Developer<br>
+uStudio
+October 2018-March 2019
+
 * Senior Software Developer<br>
 Ihiji
 July 2015-June 2018
@@ -133,14 +149,14 @@ Hobbies and Activities
 ====
 * Programming Language Theory and History
 * Amateur essayist: human rights, history, philosophy
-* Category and Type Theory (I'm a dabbler, but it's extremely enjoyable to me).
+* Category, Type Theory, and Logic: Curry-Howard-Lambek and Homotopy.
 * Electronic Engineering
     * Microcontrollers and circuit layout (in particular, Kicad). Garage-level fab.
     * 3D-Printing; early supporter of RepRap. Philosophical supporter of "Afghan Lathe" sort of projects and OSHW to encourage means of production moving to smaller and smaller social units; e.g., farmers using out-of-IP-protection designs for farm equipment, use of free (libre) IP Cores in FPGAs.
     * Early supporter of the IPython Notebook (now Jupyter) project as well, to encourage use of and sharing and reproduction of results with code in academic papers.
     * Loudspeaker design.
     * Astrophotography (and astronomy along with it)
-    
+
 Philosophy and Advocacy
 ====
 * Open source (especially but not exclusively libre software, FLOSS).
