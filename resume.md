@@ -15,7 +15,7 @@ Application
 * Node.js
 * Comfortable with targeting JS for multiple environments, using tools like RollUp and WebPack
 * Python (CPython 2 and 3)
-  * Intimate knowledge of WSGI, and applications and frameworks like Flask
+  * Intimate knowledge of WSGI, and applications and frameworks like Flask and Django
 * API Design (as in programming interfaces; architecture)
 * Client-side application design, Elm descendents like React+Redux, as well as FP/Type-algebraic languages such as Purescript.
 * SQL Design
@@ -34,8 +34,7 @@ Networking
 ----
 * HTTP and HTTP (ReST) Interface Design
 * Understanding of OSI Model and ability to diagnose and solve most layer 3 and above problems.
-* Cloud providers: AWS, Google Cloud, and Rackspace, as well as VPS's; Linode,
-  etc.
+* Cloud providers: AWS and Google Cloud, as well as VPS's; Linode, etc.
 
 Development Environment
 ----
@@ -47,18 +46,18 @@ Open Source Projects
 Too many projects to list, but as a sample:
 * A Python Nexrad (Weather Radar) decoder
 * A Javascript Entity-Component-System Game Engine (minimal, but working)
-* OpenSCAD-built models for printing (turns out that Github can render STL files, making Thingiverse unnecessary).
+* OpenSCAD-built models for printing (turns out that Github and Gitlab can render STL files, making Thingiverse unnecessary).
 * Various documentation contributions; mostly just grammar, linking, etc.
 
 Work history
 ====
 * Senior Software Engineer, Bestow, Inc. May 2019 - May 2020
-  * React/Redux mentoring, including solutions for race conditions
-    asynchronous systems; I chose Redux-Saga and Sanctuary for this implementation.
+  * React/Redux mentoring, including solutions for race conditions in asynchronous systems; I chose Redux-Saga and Sanctuary for this implementation.
   * Design for long-term storage of documents with logic in an AST inspired by LISP (parts of existing implementation were in Python).
 * Senior Software Engineer, uStudio October 2018 - March 2019
   * React/Redux Programming, in the context of a React Native mobile application, responsible for deployment of both iOs and Android versions.
   * Knowledge transfer of a safe asynchronous, declarative, and functional programming style for Javascript.
+  * Solved similar problems with state and the need for functional idioms.
 * Senior Software Developer, Ihiji (now Control4) July 2015 - June 2018
   * Mentored team and moved company to a ReSTful architecture with a standard, horizontally-scalable stateless web server.
   * Wrote initial version of WSGI-based application server (Flask).
